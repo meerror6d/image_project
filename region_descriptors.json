@@ -1,0 +1,98 @@
+{
+    "chips - item1": {
+        "area": 141042,
+        "perimeter": 1414,
+        "max_diameter": 200,
+        "compactness": 14.175890869386423,
+        "form factor": 0.8864607332366606,
+        "roundness": 4.4895062967134205
+    },
+    "chips - item2": {
+        "area": 141042,
+        "perimeter": 1393,
+        "max_diameter": 200,
+        "compactness": 13.757951532167723,
+        "form factor": 0.9133896557912351,
+        "roundness": 4.4895062967134205
+    },
+    "chips - item3": {
+        "area": 141042,
+        "perimeter": 1411,
+        "max_diameter": 199,
+        "compactness": 14.115802385105146,
+        "form factor": 0.8902342404296536,
+        "roundness": 4.534740331520336
+    },
+    "chips - item4": {
+        "area": 141042,
+        "perimeter": 1090,
+        "max_diameter": 155,
+        "compactness": 8.423731938004282,
+        "form factor": 1.49178187373996,
+        "roundness": 7.474724323352209
+    },
+    "chips - item5": {
+        "area": 141042,
+        "perimeter": 1093,
+        "max_diameter": 155,
+        "compactness": 8.470164915415266,
+        "form factor": 1.483604007696358,
+        "roundness": 7.474724323352209
+    },
+    "chips - item6": {
+        "area": 141042,
+        "perimeter": 1098,
+        "max_diameter": 155,
+        "compactness": 8.547836814565875,
+        "form factor": 1.4701228962332957,
+        "roundness": 7.474724323352209
+    },
+    "chips - item221": {
+        "area": 141042,
+        "perimeter": 1091,
+        "max_diameter": 156,
+        "compactness": 8.439195416967996,
+        "form factor": 1.489048421499164,
+        "roundness": 7.379201671126596
+    },
+    "chips - item222": {
+        "area": 141042,
+        "perimeter": 1098,
+        "max_diameter": 156,
+        "compactness": 8.547836814565875,
+        "form factor": 1.4701228962332957,
+        "roundness": 7.379201671126596
+    },
+    "chips - item223": {
+        "area": 141042,
+        "perimeter": 1098,
+        "max_diameter": 156,
+        "compactness": 8.547836814565875,
+        "form factor": 1.4701228962332957,
+        "roundness": 7.379201671126596
+    },
+    "chips - item271": {
+        "area": 141042,
+        "perimeter": 833,
+        "max_diameter": 119,
+        "compactness": 4.919733129138838,
+        "form factor": 2.554278918084083,
+        "roundness": 12.681325603314514
+    },
+    "chips - item272": {
+        "area": 141042,
+        "perimeter": 850,
+        "max_diameter": 119,
+        "compactness": 5.122587598020448,
+        "form factor": 2.4531294729279534,
+        "roundness": 12.681325603314514
+    },
+    "chips - item273": {
+        "area": 141042,
+        "perimeter": 864,
+        "max_diameter": 119,
+        "compactness": 5.292721317054494,
+        "form factor": 2.3742740003837213,
+        "roundness": 12.681325603314514
+    }
+}
