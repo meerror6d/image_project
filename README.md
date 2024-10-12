@@ -22,10 +22,11 @@ The project integrates **PyQt5** for the GUI and **OpenCV** for the image proces
 
 Before running the application, make sure you have the following installed:
 
-- Python 3.x
+- Python 3.x (spyder IDE I prefer)
 - [PyQt5](https://pypi.org/project/PyQt5/)
 - [OpenCV](https://pypi.org/project/opencv-python/)
 - NumPy
+
 
 To install the required packages, run:
 
