@@ -18,6 +18,21 @@ The project integrates **PyQt5** for the GUI and **OpenCV** for the image proces
 4. **Template Matching**: Detected regions of interest (ROI) are compared against preloaded templates using SIFT feature matching.
 5. **Result Display**: The detected items are highlighted with bounding boxes, and their names are labeled on the image.
 
+## Screenshots
+
+### Input Image
+![Input Image](./final_project/input.jpg)
+
+### Grayscale and Binary Processing
+![Grayscale and Binary Image](./final_project/_binary_image.jpg)
+
+### Contour Detection
+![Contour Detection](./final_project/contour_image.jpg)
+
+### Final Output with Detected Items
+![Detected Items](./final_project/output.JPG)
+
+
 ## Prerequisites
 
 Before running the application, make sure you have the following installed:
