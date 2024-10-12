@@ -24,7 +24,7 @@ The project integrates **PyQt5** for the GUI and **OpenCV** for the image proces
 ![Input Image](./final_project/input.jpg)
 
 ### Grayscale and Binary Processing
-![Grayscale and Binary Image](./final_project/_binary_image.jpg)
+![Grayscale and Binary Image](./final_project/binary_image.jpg)
 
 ### Contour Detection
 ![Contour Detection](./final_project/contour_image.jpg)
